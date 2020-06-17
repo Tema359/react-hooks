@@ -1,0 +1,24 @@
+.todo-form,
+.todo-edit-form {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid gray;
+}
+
+.todo-form {
+  border-top:  none;
+}
+
+.add-inp,
+.change-inp {
+  width: 100%;
+  height: 50px;
+  outline: none;
+  border: none;
+  padding-left: 20px;
+}
+
+.add-btn {
+  width: 120px;
+  height: 50px;
+}

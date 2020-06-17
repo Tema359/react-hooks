@@ -1,0 +1,15 @@
+.stopwatch {
+  display: flex;
+}
+
+.stopwatch-controls {
+  display: flex;
+}
+
+.stopwatch-time {
+  margin-right: 50px;
+}
+
+.icon {
+  margin: 0 50px 20px 0;
+}
